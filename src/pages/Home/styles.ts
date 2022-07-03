@@ -4,7 +4,7 @@ import backgroundIMG from "../../assets/background.png";
 
 export const Container = styled.div`
   width: 100%;
-  height: 100vh;
+  height: 100%;
 
   display: flex;
   align-items: center;

@@ -9,6 +9,7 @@ export const GalleryContainer = styled.div`
   width: 1277px;
 
   margin-top: 100px;
+  margin-bottom: 3px;
 `;
 
 export const Row = styled.div`
