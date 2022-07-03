@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const HeroContainer = styled.div`
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
 
   width: 1277px;
 
@@ -44,7 +45,7 @@ export const BannerContainer = styled.div`
   display: flex;
   flex-direction: row;
 
-  margin: 0 40px;
+  margin-right: 40px;
 `;
 
 export const TextSection = styled.div`

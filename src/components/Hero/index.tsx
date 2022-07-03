@@ -29,9 +29,9 @@ export function Hero() {
       </ArtistsContainer>
       <BannerContainer>
         <TextSection>
-          <Section>
-            Descubra a verdadeira arte digital e colecione diversas
-          </Section>
+          <Section>Descubra a verdadeira</Section>
+          <Section>arte digital e</Section>
+          <Section>colecione diversas</Section>
           <p>NFTs</p>
         </TextSection>
         <img src={BadgeIMG} alt="" />
